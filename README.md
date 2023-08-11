@@ -3,7 +3,7 @@
 This bundle adds the functionality to sanitize HTML strings to remove unsecure content.
 This functionality can be used to securely use v-html in map.apps projects.
 
-The bundle uses the ArcGIS HTML Sanitizer: [Source Repository](https://github.com/Esri/arcgis-html-sanitizer)
+The bundle uses the ArcGIS HTML Sanitizer: [Source Repository](https://github.com/Esri/arcgis-html-sanitizer)<br>
 Documentation: [Link](https://github.com/Esri/arcgis-html-sanitizer/blob/master/README.md)
 
 ## Development Guide
