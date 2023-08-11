@@ -1,6 +1,6 @@
 {
     "name": "arcgishtmlsanitizer",
-    "version": "3.0.1",
+    "version": "3.0.2-SNAPSHOT",
     "homepage": "https://github.com/Esri/arcgis-html-sanitizer",
     "description": "A simple utility to sanitize strings according to ArcGIS Supported HTML",
     "license": "MIT",
